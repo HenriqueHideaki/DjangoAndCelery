@@ -56,7 +56,8 @@ Você se concentrará na integração do Celery em um projeto Django existente. 
     
 ### Estrutura de pastas
 
->> source_code_initial/
+````shell
+source_code_initial/
 │
 ├── django_celery/
 │   ├── __init__.py
@@ -90,6 +91,8 @@ Você se concentrará na integração do Celery em um projeto Django existente. 
 ├── .gitignore
 ├── manage.py
 └── requirements.txt
+
+````
 
 
 #### Confirme que você está dentro de source_code_initial/, então crie e ative um ambiente virtual :
