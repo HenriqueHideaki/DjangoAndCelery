@@ -1,6 +1,6 @@
 # [Tarefas assíncronas com Django e Celery](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
 
-![Tela Inicial](img/celery.png)
+![Tela Inicial](source_code_initial/img/celery.png)
 
 
 Você construiu um aplicativo Django brilhante e deseja lançá-lo ao público, mas está preocupado com as tarefas demoradas que fazem parte do fluxo de trabalho do seu aplicativo. Você não quer que seus usuários tenham uma experiência negativa ao navegar em seu aplicativo. Você pode integrar o Celery para ajudar nisso.
