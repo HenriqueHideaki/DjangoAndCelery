@@ -1,4 +1,4 @@
-#[Tarefas assíncronas com Django e Celery](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
+# [Tarefas assíncronas com Django e Celery](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
 
 ![Tela Inicial](img/celery.png)
 
