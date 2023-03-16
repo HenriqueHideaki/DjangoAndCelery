@@ -116,7 +116,7 @@ Conclua a configuração local do aplicativo Django executando as migrações e 
 ```
 Agora você pode abrir seu navegador para navegar até a página inicial do aplicativo em https://localhost:8000, onde um formulário de feedback de aparência amigável o receberá:
 
-![Tela Inicial](img/tela.png)
+![Tela Inicial](source_code_initial/img/tela.png)
 
 
 Depois de pressionar o botão Enviar , o aplicativo congela. Você pode ver o pequeno símbolo giratório girando na guia do navegador, mas a página não responde e você ainda pode ver todas as informações inseridas no formulário.
